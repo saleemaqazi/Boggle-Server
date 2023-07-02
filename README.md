@@ -1,6 +1,6 @@
 # BoggleService
 
-BoggleService is a server application written in C# that provides a Boggle game service. It allows clients to register, join games, cancel games, play words, and get game status through a RESTful API. The server works in conjunction with the BoggleClient application on my Github page.
+BoggleService is a server application written in C# that provides a Boggle game service. It allows clients to register, join games, cancel games, play words, and get game status through a RESTful API. The server works in conjunction with the BoggleClient application on my Github page. This application was written by Professor Joeseph Zachary and students Saleema Qazi and Spencer Fajardo.
 
 ## API Endpoints
 
@@ -101,8 +101,7 @@ No request body
   "TimeRemaining": 120
 }
 ```
-
-##Contact Information
+## Contact Information
 
 For any questions or feedback regarding BoogleService, please feel free to contact Saleema Qazi at saleemasqazi@gmail.com
 
